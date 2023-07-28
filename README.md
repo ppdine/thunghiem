@@ -1,2 +1,1 @@
-# thunghiem
-ádadasd
+# thunghiem tuanaan programming
